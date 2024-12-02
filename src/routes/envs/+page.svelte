@@ -5,3 +5,5 @@
 </script>
 
 Envs?
+
+{JSON.stringify(data)}
