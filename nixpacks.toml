@@ -1,4 +1,4 @@
 [variables]
-NODE_ENV='production'
-NIXPACKS_NODE_VERSION='22.11.0'
-HELLO='world'
+NODE_ENV=production
+NIXPACKS_NODE_VERSION=22.11.0
+HELLO=world
